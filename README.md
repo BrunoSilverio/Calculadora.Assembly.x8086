@@ -28,8 +28,6 @@ TLINK: Linker (Ligador)
 
 
 #### :red_circle: Execução
-Colocar os arquivos na mesma pasta.
-
 Abrir o Prompt de Comando do MSDOS e executar o seguintes comandos:
 
 Acessar a pasta do projeto
