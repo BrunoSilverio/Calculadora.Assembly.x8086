@@ -30,12 +30,18 @@ TLINK: Linker (Ligador)
 
 
 #### :red_circle: Execução
+Colocar os arquivos na mesma pasta.
+
 Abrir o Prompt de Comando do MSDOS e executar o seguintes comandos:
 
+Acessar a pasta do projeto
 > C:\Users\Teste> cd NomeDaPasta
 
+Executar o TASM
 > C:\Users\Teste\NomeDaPasta> tasm calculadora.asm
 
+Executar o TLINK
 > C:\Users\Teste\NomeDaPasta> tlink calculadora.obj
 
+Executar o projeto
 > C:\Users\Teste\NomeDaPasta> calculadora.exe
