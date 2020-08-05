@@ -1,6 +1,4 @@
-# Calculadora x8086
-
-## Calculadora em  Assembly x86 :computer:
+# Calculadora em  Assembly x86 :computer:
 
 #### Opções de operações lógicas e aritméticas:
 - AND
